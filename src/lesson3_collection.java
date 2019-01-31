@@ -54,7 +54,6 @@ public class lesson3_collection {
         //Задание 2
 
         //Создаем экземпляр  telephonebook
-
         telephonebook telebook = new telephonebook();
 
         telebook.add("Поздеев", "+7(921)785-55-82");
